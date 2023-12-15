@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(189, 188, 188, 0.7);
+}
+
+.body {
+  width: 35vw;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.input {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.form-control {
+  width: 35%;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
